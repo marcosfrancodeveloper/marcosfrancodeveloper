@@ -12,7 +12,7 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em 
   
 ## Entre em contato
 
-<ul align="center"> 
+<ul align="left"> 
   <li>
     <a href="mailto:marcosfranco.developer@gmail.com">
       <img height="30em" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" target="_blank">
