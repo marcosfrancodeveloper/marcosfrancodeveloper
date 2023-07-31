@@ -1,6 +1,8 @@
-<b>Olá 👋</b></br>
-Eu sou o Marcos Franco
+<b>Olá,</b></br>
+Me chamo Marcos Franco
 ----------------------
+
+Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em diversos projetos com diversas tecnologias, mas nos últimos anos estou me especializando em front-end com HTML, CSS, Sass, Boostrap, JavaScript, TypeScript, React, Vue.js e principalmente Angular que são as ferramentas que atualmente mais uso no meu cotidiano.
 
 <div align="center">
   <a href="https://github.com/marcosfrancodeveloper">
@@ -23,19 +25,3 @@ Eu sou o Marcos Franco
     <img height="40em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" target="_blank">
   </a> 
 </div>
-
-  
-<!--
-**marcosfrancodeveloper/marcosfrancodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
