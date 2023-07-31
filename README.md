@@ -10,13 +10,9 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfrancodeveloper&layout=compact&langs_count=7&theme=dark" />
 </div>
   
-##
+## Entre em contato
 
 <div align="center"> 
-  <a href="https://discordapp.com/users/759043350661431306" target="_blank">
-    <img height="40em" src="https://cdn2.iconfinder.com/data/icons/social-media-2304/64/02-discord-256.png" target="_blank">
-  </a>
-  &nbsp;
   <a href="mailto:marcosfranco.developer@gmail.com">
     <img height="40em" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" target="_blank">
   </a>
