@@ -1,26 +1,20 @@
-<b>Olá,</b></br>
-Me chamo Marcos Franco
+<b>Saudações!</b>
 ----------------------
-
 Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em diversos projetos com diversas tecnologias, mas nos últimos anos estou me especializando em front-end com HTML, CSS, Sass, Boostrap, JavaScript, TypeScript, React, Vue.js e principalmente Angular que são as ferramentas que atualmente mais uso no meu cotidiano.
 
 <div align="center">
   <a href="https://github.com/marcosfrancodeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfrancodeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfrancodeveloper&layout=compact&langs_count=7&theme=dark" />
+  <a height="180em" href="http://www.github.com/marcosfrancodeveloper"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfrancodeveloper&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
+    
+<br/><br/>
+
+Essas são algumas das tecnologias que utilizo e/ou tenho conhecimento:<br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,angular,vuejs,vite,vscode,webpack,bootstrap,jest,md,postman,reactivex,xd,ai,figma,jenkins&perline=9)](https://skillicons.dev)
   
 ## Entre em contato
 
-<ul align="left"> 
-  <li>
-    <a href="mailto:marcosfranco.developer@gmail.com">
-      <img height="30em" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" target="_blank">
-    </a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/marcosfranco-developer" target="_blank">
-      <img height="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" target="_blank">
-    </a>
-  </li>
-</ul>
+> <a href="https://www.linkedin.com/in/marcosfranco-developer" target="_blank">LinkedIn</a><br/>
+> <a href="mailto:marcosfranco.developer@gmail.com">E-mail</a>
