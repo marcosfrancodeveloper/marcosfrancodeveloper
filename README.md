@@ -1,6 +1,6 @@
 <b>Saudações!</b>
 ----------------------
-Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em diversos projetos com diversas tecnologias, porém nos últimos anos estou me especializando em front-end, principalmente no framework Angular, pois é a mais utilizada no meu dia-a-dia.
+Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em diversos projetos com diversas tecnologias, porém nos últimos anos estou me especializando em front-end, principalmente no framework Angular, pois é o mais utilizado no meu dia-a-dia.
 
 <div align="center">
   <a href="https://github.com/marcosfrancodeveloper">
