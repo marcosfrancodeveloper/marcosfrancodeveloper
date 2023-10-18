@@ -17,4 +17,4 @@ Essas são algumas das tecnologias que utilizo e/ou tenho conhecimento:<br/><br/
 ## Entre em contato
 
 > <a href="https://www.linkedin.com/in/marcosfranco-developer" target="_blank">LinkedIn</a><br/>
-> <a href="mailto:marcosfranco.developer@gmail.com">E-mail</a>
+> <a href="mailto:contato@marcosfrancodeveloper.com.br">E-mail</a>
