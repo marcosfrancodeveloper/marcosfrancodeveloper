@@ -13,8 +13,3 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pela FIAP. Já atuei em 
 
 Essas são algumas das tecnologias que utilizo e/ou tenho conhecimento:<br/><br/>
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,angular,vuejs,vite,vscode,webpack,bootstrap,jest,md,postman,reactivex,xd,ai,figma,jenkins&perline=9)](https://skillicons.dev)
-  
-## Entre em contato
-
-> <a href="https://www.linkedin.com/in/marcosfrancodeveloper" target="_blank">LinkedIn</a><br/>
-> <a href="mailto:contato@marcosfrancodeveloper.com.br">E-mail</a>
