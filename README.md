@@ -1,14 +1,13 @@
-# Olá, eu sou o Marcos Franco! 👋
-### Tech Lead & Senior Full-Stack Developer | Expert em Angular, NestJS & IA
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Marcos%20Franco&fontSize=70&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/marcosfrancodeveloper?label=Followers&style=flat-square&color=2ea043" />
-  <img src="https://img.shields.io/github/commit-activity/m/marcosfrancodeveloper?label=Commits&style=flat-square&color=3382ed" />
-  <img src="https://img.shields.io/badge/Main_Focus-Architecture_%26_AI-ff6347?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3382ed&height=200&section=header&text=Marcos%20Franco&fontSize=70&pauseAnimation=false" width="100%" />
+  
+  <h1>Tech Lead & Senior Full-Stack Developer</h1>
+  
+  <p>
+    <img src="https://img.shields.io/github/followers/marcosfrancodeveloper?label=Followers&style=for-the-badge&color=2ea043" />
+    <img src="https://img.shields.io/badge/Main_Focus-NestJS%20%7C%20Postgres%20%7C%20IA-ff6347?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Expertise-Angular%20Signals-dd0031?style=for-the-badge" />
+  </p>
 </div>
 
 ---
@@ -23,13 +22,25 @@ Atualmente, dedico meus esforços à integração de **IA no ciclo de vida do de
 ### 🛠️ Technology Stack
 
 **Frontend & UX**
-[![My Skills](https://skillicons.dev/icons?i=angular,rx,ts,scss,js,html,css,figma&theme=dark)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,rx,ts,scss,js,html,css,figma&theme=dark" />
+  </a>
+</p>
 
 **Backend & Database**
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,docker,azure)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,docker,azure" />
+  </a>
+</p>
 
 **Tools, AI & Security**
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,jenkins,jest,postman,ai)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,jenkins,jest,postman,ai" />
+  </a>
+</p>
 
 ---
 
@@ -43,31 +54,26 @@ Atualmente, dedico meus esforços à integração de **IA no ciclo de vida do de
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfrancodeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfrancodeveloper&layout=compact&langs_count=7&theme=dark" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfrancodeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfrancodeveloper&layout=compact&langs_count=7&theme=dark" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfrancodeveloper&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" />
-</div>
+</p>
 
 ---
 
 ### 📫 Conecte-se Comigo
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/marcos-franco-developer" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seu-email@dominio.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 <br />
 
