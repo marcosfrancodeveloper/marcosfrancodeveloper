@@ -52,10 +52,10 @@ Atualmente, dedico meus esforços à integração de **IA no ciclo de vida do de
 
 ### 📫 Conecte-se Comigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcos-franco-developer" target="_blank">
+  <a href="https://www.linkedin.com/in/marcosfrancodev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto:contato@marcosfranco.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
