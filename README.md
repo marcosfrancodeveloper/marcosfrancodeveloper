@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3382ed&height=200&section=header&text=Marcos%20Franco&fontSize=70&pauseAnimation=false" width="100%" />
-  
   <h1>Tech Lead & Senior Full-Stack Developer</h1>
   
   <p>
@@ -10,7 +8,7 @@
   </p>
 </div>
 
----
+<br />
 
 ### 📖 Sobre Mim
 Atuo como **Tech Lead** desenhando arquiteturas escaláveis e liderando times de alta performance. Tenho um pé no front-end avançado com **Angular (Signals/RxJS)** e outro no back-end sólido com **NestJS e PostgreSQL**. 
@@ -24,7 +22,7 @@ Atualmente, dedico meus esforços à integração de **IA no ciclo de vida do de
 **Frontend & UX**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,rx,ts,scss,js,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,scss,js,html,css,figma&theme=dark" />
   </a>
 </p>
 
@@ -49,19 +47,6 @@ Atualmente, dedico meus esforços à integração de **IA no ciclo de vida do de
 * 🤖 **Inteligência Artificial:** Desenvolvimento de automações e integração de LLMs para otimização de workflow (QA & Dev Productivity).
 * 🏗️ **Arquitetura Full-Stack:** Implementação de sistemas distribuídos com NestJS e estratégias de reatividade granular no Angular 21.
 * 🛡️ **Cybersecurity:** Pesquisa ativa em análise de protocolos de rede, interceptação e defesa de aplicações web.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfrancodeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfrancodeveloper&layout=compact&langs_count=7&theme=dark" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfrancodeveloper&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" />
-</p>
 
 ---
 
