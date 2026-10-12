@@ -1,7 +1,25 @@
 <div align="center">
-  <a href="https://marcosfranco.dev/?utm_source=github&utm_medium=profile&utm_campaign=readme">
-    <img src="https://marcosfranco.dev/assets/images/og-image.jpg" alt="Marcos Franco - Senior Software Engineer Fullstack" width="100%" />
+  <h1 align="center">Do código à produção, software que escala.</h1>
+
+<p align="center">
+  Senior Software Engineer Fullstack · 10+ anos · Tech Lead<br />
+  Disponível para contratos PJ e consultoria.
+</p>
+
+<p align="center">
+  <a href="https://wa.me/5511932247792?text=Ol%C3%A1%2C%20Marcos!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto.">
+    <img src="https://img.shields.io/badge/Vamos_conversar-FAD64E?style=for-the-badge&logo=whatsapp&logoColor=110E1B" alt="Conversar no WhatsApp" />
   </a>
+  <a href="https://marcosfranco.dev/?utm_source=github&utm_medium=profile&utm_campaign=readme">
+    <img src="https://img.shields.io/badge/marcosfranco.dev-110E1B?style=for-the-badge&logo=googlechrome&logoColor=FAD64E" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcosfrancodev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contato@marcosfranco.dev">
+    <img src="https://img.shields.io/badge/E--mail-110E1B?style=for-the-badge&logo=maildotru&logoColor=FAD64E" alt="E-mail" />
+  </a>
+</p>
 
   <h1>Marcos Franco</h1>
 
