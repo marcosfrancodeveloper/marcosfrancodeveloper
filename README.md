@@ -1,5 +1,4 @@
-<div align="center">
-  <h1 align="center">Do código à produção, software que escala.</h1>
+<h1 align="center">Do código à produção, software que escala.</h1>
 
 <p align="center">
   Senior Software Engineer Fullstack · 10+ anos · Tech Lead<br />
@@ -25,11 +24,9 @@
 
 ### Quem sou
 
-Senior Software Engineer Fullstack com mais de 10 anos de experiência. Desenho a arquitetura, escrevo o código e acompanho até a produção: front-end, APIs e testes.
+Sou **Tech Lead na EDS**, em sistemas para a Polícia Civil e o Corpo de Bombeiros do Rio de Janeiro. Lá concebi a arquitetura com **Nx e Module Federation**, defino os padrões, reviso código e acompanho o time até a entrega.
 
-Sou **Tech Lead na EDS**, em sistemas para a Polícia Civil e o Corpo de Bombeiros do Rio de Janeiro. Lá concebi a arquitetura com **Nx e Module Federation**, defino os padrões, reviso código e acompanho o time até a entrega. Também entrego de ponta a ponta: na **Epharma**, criei uma plataforma de onboarding do levantamento de requisitos ao deploy, com API em .NET e portal em React.
-
-**Disponível para contratos PJ e consultoria.**
+Também entrego de ponta a ponta: na **Epharma**, criei uma plataforma de onboarding do levantamento de requisitos ao deploy, com API em .NET e portal em React.
 
 ### O que eu entrego
 
@@ -50,8 +47,11 @@ Sou **Tech Lead na EDS**, em sistemas para a Polícia Civil e o Corpo de Bombeir
 
 ### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,vue,html,css,sass&theme=dark" alt="Front-end" /><br />
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,postgres,docker,nginx,githubactions&theme=dark" alt="Back-end e infraestrutura" /><br />
-  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,linux&theme=dark" alt="Qualidade e ferramentas" />
-</p>
+**Front-end**<br />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,vue,html,css,sass&theme=dark" alt="Angular, TypeScript, JavaScript, React, Vue, HTML, CSS e Sass" />
+
+**Back-end e infraestrutura**<br />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nestjs,nodejs,postgres,docker,nginx,githubactions&theme=dark" alt=".NET, C#, NestJS, Node.js, PostgreSQL, Docker, Nginx e GitHub Actions" />
+
+**Qualidade e ferramentas**<br />
+<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,git,github,linux&theme=dark" alt="Jest, Vitest, Cypress, Git, GitHub e Linux" />
